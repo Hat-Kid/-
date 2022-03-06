@@ -31,7 +31,7 @@
 			/* Constants */
 			const {DiscordModules: {Dispatcher, SelectedChannelStore}} = Api;
 			const sounds = [
-				{re: /🗿/gmi, file: "vine_boom.mp3", duration: 3}
+				{re: /🗿/gmi, file: "vine_boom.mp3", duration: 100}
 			];
 
 			/* Double message event fix */
